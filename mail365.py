@@ -2,8 +2,8 @@
 
 #   File:      mail365.py                                                                    
 #   Purpose:   mail365 - an electronic mail transport agent for Office 365                   
-#   Author:    Paul Greenberg                                                                
-#   Version:   1.0                                                                           
+#   Author:    Paul Greenberg (http://www.greenberg.pro)                                                                
+#   Version:   1.0
 #   Copyright: (c) 2014 Paul Greenberg <paul@greenberg.pro>
 #
 #   This program is free software: you can redistribute it and/or modify
